@@ -11,12 +11,6 @@ import android.view.View;
 import android.view.animation.AccelerateDecelerateInterpolator;
 import android.widget.ImageView;
 
-
-/**
- * Circular progress drawable demonstration
- *
- * @author Saul Diaz <sefford@gmail.com>
- */
 public class MyActivity extends Activity implements View.OnTouchListener{
 
     // Views
@@ -94,7 +88,6 @@ public class MyActivity extends Activity implements View.OnTouchListener{
                 drawable.setCircleScale(0f);
             }
         }
-        //view.performClick();
         return true;
     }
 }

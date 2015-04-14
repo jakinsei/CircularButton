@@ -1,9 +1,5 @@
 package com.embarke.sail.circularbutton;
 
-/**
- * Created by Marco on 10/04/2015.
- */
-
 import android.graphics.BlurMaskFilter;
 import android.graphics.Canvas;
 import android.graphics.ColorFilter;
